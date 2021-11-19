@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @NozyxN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NozyxN/NozyxN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Iam Not Programmer.
 ## Welcome To My Github :3
 
 <p align="center">
